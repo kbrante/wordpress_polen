@@ -2,3 +2,5 @@ wordpress/wp-config.php
 wordpress/wp-content/themes/polen/static/external
 wordpress/license.txt
 wordpress/readme.html
+wordpress/wp-admin/install.php
+wordpress/wp-config-sample.php
